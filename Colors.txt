@@ -1,0 +1,10 @@
+the background : hsla(0,0%,100% .98)
+Body color + Navigation link color : #747474
+Logo color: #00b39b
+footer color: #ababab;
+footer a color : #3d83df
+
+
+
+
+font-family: Arial,Helvetica,sans-serif
